@@ -4,8 +4,8 @@
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Li-Jihong"> 
 </picture>
 
-- 🔭 I’m currently focused on `Deep Learning` and `Computer Vision`.
-- 🎓 Pursuing my studies at Nankai University.
-- 📫 Feel free to contact me via email: jihongli0425@163.com.
-- 📚 I am a lifelong learner and an open-source enthusiast.
-- 🏀 I enjoy playing basketball.
+- 🚀 Exploring: The frontiers of Diffusion Models and Remote Sensing.
+- 🎓 Affiliation: Visual Computing and Intelligent Perception (VCIP) Lab, Nankai University.
+- 💡 Beliefs: Stay curious, embrace open source.
+- 📬 Let's connect: jihongli0425@163.com
+- 🏀 Hobbies: Passionate about basketball, teamwork, and competition.
